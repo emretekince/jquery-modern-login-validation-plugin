@@ -27,7 +27,7 @@ Default : input[name='email']
 **emailCheck** Enables checking for email field.
 Default : true
 
-**requiredAttr** HTML tag which defines field is required. PS: dont use this as "required". 
+**requiredAttr** HTML tag which defines field is required.
 Default : required
 
 ## Events
