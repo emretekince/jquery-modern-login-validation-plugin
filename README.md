@@ -10,7 +10,6 @@ Demo: http://projects.emretekince.com/validifyjs/demo.html
 * Extract files
 * Add validify.js and validify.css to your project and make sure that you have jQuery in your project.
 * Call the plugin with $("#example-form").validify();
-* Call the plugin with $("#example-form").validify();
 
 ## Options
 
