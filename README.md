@@ -60,14 +60,14 @@ Form
 Javascript
 ```
 $("#demo").validify({
-onSubmit: function (e, $this) {
-$this.find('.alert').removeClass('hidden')
-},
-onFormSuccess: function (form) {
-console.log("Form is valid now!")
-},
-onFormFail: function (form) {
-console.log("Form is not valid :(")
-}
+	onSubmit: function (e, $this) {
+		$this.find('.alert').removeClass('hidden')
+	},
+	onFormSuccess: function (form) {
+		console.log("Form is valid now!")
+	},
+	onFormFail: function (form) {
+		console.log("Form is not valid :(")
+	}
 });
 ```
